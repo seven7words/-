@@ -1,0 +1,5 @@
+c:\users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp1\002-栈\bin\Debug\002-栈.exe.config
+c:\users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp1\002-栈\bin\Debug\002-栈.exe
+c:\users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp1\002-栈\bin\Debug\002-栈.pdb
+c:\users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp1\002-栈\obj\Debug\002-栈.exe
+c:\users\woopqww111\documents\visual studio 2017\Projects\ConsoleApp1\002-栈\obj\Debug\002-栈.pdb
